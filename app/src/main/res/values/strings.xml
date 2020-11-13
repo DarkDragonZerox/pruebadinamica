@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PruebaDinamica</string>
+    <string name="imagen_camara">imagen camara</string>
+    <string name="pregunta_1">Pregunta 1</string>
+    <string name="categoria">Categoria</string>
+    <string name="ver_respuesta">VER RESPUESTA</string>
 </resources>
